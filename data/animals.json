@@ -32,7 +32,7 @@
       ]
     },
     {
-  "id": "3",
+      "id": "3",
       "name": "Noel",
       "species": "bear",
       "diet": "carnivore",
@@ -40,7 +40,7 @@
         "impish",
         "sassy",
         "brave"
-        ]
+      ]
     },
     {
       "id": "4",
@@ -62,7 +62,7 @@
         "goofy"
       ]
     },
-        {
+    {
       "id": "6",
       "name": "Bodhi",
       "species": "Doggo",
@@ -82,7 +82,7 @@
         "goofy"
       ]
     },
-        {
+    {
       "id": "8",
       "name": "Roxy",
       "species": "Quokka",
@@ -91,7 +91,7 @@
         "loving"
       ]
     },
-        {
+    {
       "id": "9",
       "name": "Tamara",
       "species": "Tiger",
@@ -108,6 +108,33 @@
       "personalityTraits": [
         "loving"
       ]
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "13"
     }
   ]
 }
