@@ -135,6 +135,44 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "Hello World",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "King",
+      "species": "Gorilla",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "goofy"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Ditto",
+      "species": "Pokemon",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "EggMan",
+      "species": "Egg",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "17"
     }
   ]
 }
